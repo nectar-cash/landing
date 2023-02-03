@@ -1,3 +1,3 @@
-# Kinetic
+# Nectar Landing
 
-Deployed to [kinetic.app](https://kinetic.app)
+Deployed to [nectar.cash](https://nectar.cash)
