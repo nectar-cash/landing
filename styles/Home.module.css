@@ -1,0 +1,24 @@
+.wrap {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 240px;
+  height: 49px;
+  background-image: url(../assets/logo.svg);
+  background-size: 240px 49px;
+  background-repeat: no-repeat;
+  text-indent: -9999px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+@media only screen and (min-width: 1024px) {
+  .logo {
+    margin: 0 0 56px 0;
+  }
+}
+
+@media only screen and (min-resolution: 96dpi) {
+}
