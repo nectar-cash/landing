@@ -8,6 +8,7 @@ specifiers:
   eslint: 8.33.0
   eslint-config-next: 13.1.6
   next: 13.1.6
+  pocketbase: ^0.10.1
   postcss: ^8.4.21
   prop-types: ^15.5.4
   react: 18.2.0
@@ -18,6 +19,7 @@ specifiers:
 
 dependencies:
   next: 13.1.6_biqbaboplfbrettd7655fr4n2y
+  pocketbase: 0.10.1
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   typescript: 4.9.4
@@ -2028,6 +2030,10 @@ packages:
     resolution: {integrity: sha512-udgsAY+fTnvv7kI7aaxbqwWNb0AHiB0qBO89PZKPkoTmGOgdbrHDKD+0B2X4uTfJ/FT1R09r9gTsjUjNJotuog==}
     engines: {node: '>=0.10.0'}
     dev: true
+
+  /pocketbase/0.10.1:
+    resolution: {integrity: sha512-FMBhF+9o2AmdKJYbfz2qunnk4Q5/efYMRcukdQF49UfhsIuaSYl39fSPN1l880bYI4XAvDDeySAjK1MlxrK37A==}
+    dev: false
 
   /postcss-import/14.1.0_postcss@8.4.21:
     resolution: {integrity: sha512-flwI+Vgm4SElObFVPpTIT7SU7R3qk2L7PyduMcokiaVKuWv9d/U+Gm/QAd8NDLuykTWTkcrjOeD2Pp1rMeBTGw==}
