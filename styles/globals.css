@@ -25,5 +25,5 @@
 html {
   background: center center no-repeat;
   background-size: cover;
-  background-image: url('../assets/background.png');
+  background-image: url('/background.png');
 }
